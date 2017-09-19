@@ -11,7 +11,7 @@
 /*This begins the main body styling.*/
 body {
     margin: 0;
-    background-color: lightpink;
+    background-color: FCF480;
     }
 
 .padding{
@@ -48,7 +48,7 @@ body {
     }
 
     li a:hover:not(.active) {
-        background-color: gainsboro;
+        background-color: lightcoral;
         color: white;
     }
     
@@ -58,7 +58,7 @@ body {
 	font-family: "Nixie One";
     color: white;
 	font-size: 40px;
-	font-style: normal;
+	font-style: :
 	font-variant: normal;
 	font-weight: 500;
     text-align: center;
@@ -79,8 +79,8 @@ body {
     p{
         font-size: 100%;
         font-family: "Old Standard TT";
-        color: black;
-        text-align: left;
+        color: 80C6FC;
+        text-align: center;
     }
 
 
